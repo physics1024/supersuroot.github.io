@@ -14,7 +14,7 @@ Welcome!
    链接： [勇士，欢迎你来到讯飞平板资源下载站](https://magisk-root.github.io/ "TB-8X04F")    
    
 ## 2.X1 PRO - 9008
-   链接：[百度网盘：X1 PRO](https://pan.baidu.com/s/1lLg5ZdjAx-zJB3AGqwAuMA/ "X1 PRO") `提取码：9008 `  
+   链接：[百度网盘：X1 PRO](https://pan.baidu.com/s/1lLg5ZdjAx-zJB3AGqwAuMA/ "X1 PRO") `提取码：9008 ` (链接已失效)
    `解压密码：IFlyTekAiStudy2020`（文件内有刷机教程）  
    文本教程：[X1 PRO-wiki_github](https://github.com/SupersuROOT/supersuroot.github.io/wiki)  
    修改镜像下载：[system_修改镜像-Github](https://github.com/SupersuROOT/supersuroot.github.io/releases)  
