@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Tue Sep 8 00:17:13 CST 2020
+ro.bootimage.build.date.utc=1599495433
+ro.bootimage.build.fingerprint=Android/P118F/P118F:8.1.0/OPM1.171019.026/root09080017:user/test-keys
+persist.sys.usb.config=none
